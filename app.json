@@ -1,0 +1,7 @@
+{
+  "name": "imageEditor",
+  "displayName": "imageEditor",
+  "expo": {
+    "plugins": ["expo-image-picker"]
+  }
+}
